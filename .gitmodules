@@ -1,0 +1,3 @@
+[submodule "virions/libBook"]
+	path = virions/libBook
+	url = https://github.com/cooldogepm/libBook.git

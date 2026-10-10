@@ -1,6 +1,6 @@
 ---
 name: RulesBook
-version: 0.0.3
+version: 0.0.4
 main: NhanAZ\RulesBook\Main
 api: 5.0.0
 

@@ -1,0 +1,3 @@
+virions:
+  - name: libBook
+    version: 0.0.3
