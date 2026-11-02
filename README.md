@@ -4,7 +4,7 @@ Show a preview of server rules when a player first joins or runs `/rulesbook`.
 
 ## Requirements
 
-- An Axolotl-PM server with a compatible API 5 runtime. `plugin.yml` declares API `5.0.0`. PHPStan at maximum level passes against the 5.0.0 and 5.49.1 source revisions; this does not establish compatibility with every intermediate release. See the [build workflow](.github/workflows/ci.yml) for the exact server revision used in CI.
+- An Axolotl-PM server with a compatible API 5 runtime. `plugin.yml` declares API `5.0.0`. PHPStan at maximum level passes against the 5.0.0 and 5.51.1 source revisions; this does not establish compatibility with every intermediate release. See the [build workflow](.github/workflows/ci.yml) for the exact server revision used in CI.
 - PHP 8.1 or newer, subject to the server's own PHP requirements.
 
 ## Installation
