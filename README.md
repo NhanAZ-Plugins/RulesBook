@@ -35,7 +35,7 @@ pages:
 
 ## Building and testing
 
-The [CI workflow](.github/workflows/ci.yml) runs PHPStan at maximum level, prepares the pinned [libBook](https://github.com/cooldogepm/libBook) source, and uses [DevTools](https://github.com/NhanAZ/DevTools) to build and inspect the PHAR. To reproduce a local build after checking out submodules, run:
+The [CI workflow](.github/workflows/ci.yml) runs PHPStan at maximum level, prepares the pinned [libBook](https://github.com/cooldogepm/libBook) source, and uses [DevTools](https://github.com/AxolotlBucketLabs/DevTools) to build and inspect the PHAR. To reproduce a local build after checking out submodules, run:
 
 ```shell
 php tools/prepare-libbook.php
